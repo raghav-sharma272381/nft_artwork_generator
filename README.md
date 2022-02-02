@@ -1,5 +1,5 @@
 # A NFT artwork gnerator with unstoppable domains login
- NFT ARTWORK GENERATOR
+ NFT Artwork generator
 # Working code in a public repo 
   https://github.com/raghav-sharma272381/nft_artwork_generator.git
 # Recorded video demo
