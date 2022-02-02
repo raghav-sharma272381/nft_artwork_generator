@@ -9,4 +9,3 @@ https://youtu.be/VXSsI03PdNY
 # email address: 
   rs272381@gmail.com
 # Wev link of working model of project
-https://nft-generator-web3.netlify.app/
